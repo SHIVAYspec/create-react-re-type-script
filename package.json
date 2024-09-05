@@ -7,6 +7,7 @@
     "create-react-re-type-script": "src/main.js"
   },
   "scripts": {
+    "test": "echo done",
     "run": "node src/main.js",
     "build": "tsc",
     "dev": "tsc -w"
