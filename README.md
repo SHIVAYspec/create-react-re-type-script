@@ -1,3 +1,7 @@
+# How to use
+``` sh
+npx create-react-re-type-script
+```
 # Initilize
 ``` sh
 npm install
