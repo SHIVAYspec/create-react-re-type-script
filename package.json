@@ -1,0 +1,37 @@
+{
+  "name": "create-react-re-type-script",
+  "version": "1.0.0",
+  "description": "A template for ReactJS with ReScript and TypeScript",
+  "main": "main.js",
+  "bin": {
+    "create-react-re-type-script": "src/main.js"
+  },
+  "scripts": {
+    "run": "node src/main.js",
+    "build": "tsc",
+    "dev": "tsc -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SHIVAYspec/create-react-re-type-script.git"
+  },
+  "keywords": [
+    "ReasonML",
+    "ReScript",
+    "TypeScript",
+    "ReactJS",
+    "Template"
+  ],
+  "author": "Specx",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SHIVAYspec/create-react-re-type-script/issues"
+  },
+  "homepage": "https://github.com/SHIVAYspec/create-react-re-type-script#readme",
+  "dependencies": {
+    "inquirer": "^10.2.0"
+  },
+  "devDependencies": {
+    "typescript": "^5.5.4"
+  }
+}
